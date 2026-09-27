@@ -11,8 +11,8 @@ Living task/phase tracker for the LMS project. Update this file as work progress
 - [x] Create and commit `.gitignore` **(blocking — complete)**
 - [x] Commit `AGENTS.md` and initial `PLAN.md` to the repo root
 - [x] Step 2: Server Scaffolding (`/server`) — Express, helmet, morgan, zod validation, health check, 7 passing tests
-- [ ] Step 3: Frontend Scaffolding (`/client` with React/Vite) **(NEXT PENDING TASK)**
-- [ ] Step 4: Set up MySQL connection + ORM (Prisma with `lms_user` / `lms_db`)
+- [x] Step 3: Frontend Scaffolding (`/client` with React/Vite) — React 19, Vite proxy, HealthStatus widget, 5 passing RTL tests
+- [ ] Step 4: Set up MySQL connection + ORM (Prisma with `lms_user` / `lms_db`) **(NEXT PENDING TASK)**
 
 ## Phase 1 — Auth & Roles Foundation
 - [ ] Design DB schema: `users`, `roles`, `teacher_applications`
